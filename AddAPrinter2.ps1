@@ -1,11 +1,10 @@
 #===========================================================#
-#															#
-# 			add a printer \ *<*/  (for Users)               #
-# 			11.05.2019 										#
-#			by FalcoonXXX 		 		                    #
-#           Build & Tested on:       Windows 10   			# 
-#			https://github.com/FalconXXX/PowerShell.git 	#
-#			add the path ;)									#
+#           add a printer \ *<*/  (for Users)               #
+#           11.05.2019 					    #
+#	    by FalcoonXXX 		 		    #
+#           Build & Tested on:       Windows 10   	    # 
+#	    https://github.com/FalconXXX/PowerShell.git     #
+#	    add the path ;)                                 #
 #===========================================================#
 
 
