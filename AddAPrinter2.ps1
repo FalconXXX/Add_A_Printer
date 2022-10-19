@@ -1,9 +1,9 @@
 #===========================================================#
 #           add a printer \ *<*/  (for Users)               #
 #           11.05.2019 					    #
-#	    by Gh0str4ider 		 		    #
+#	    by FalconXXX 		 		    #
 #           Build & Tested on:       Windows 10   & 11	    # 
-#	    https://github.com/Gh0str4ider/PowerShell.git     #
+#	    https://github.com/FalconXXX/PowerShell.git     #
 #	    add the path ;)                                 #
 #===========================================================#
 
